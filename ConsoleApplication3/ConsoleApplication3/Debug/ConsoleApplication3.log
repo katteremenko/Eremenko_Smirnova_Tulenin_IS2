@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\katte\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(73,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  ConsoleApplication3.vcxproj -> C:\Users\katte\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
